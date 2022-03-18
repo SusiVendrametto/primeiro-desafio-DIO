@@ -1,6 +1,6 @@
 # primeiro-desafio-DIO
 Desafio de projeto Git/Github
-primeiro repositório
+primeiro repositório criado para o desafio DIO
 
 Links úteis
 
